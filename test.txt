@@ -1,4 +1,4 @@
-Try git fetch & git push commands & resolve conflicts
+Try git fetch & git push commands & resolve conflicts...
 
 Test 1 git push
 
