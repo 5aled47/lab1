@@ -1,1 +1,5 @@
-Try git fetch & git push commands
+Try git fetch & git push commands & resolve conflicts
+
+Test 1 git push
+
+Test 2
